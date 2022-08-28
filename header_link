@@ -1,0 +1,8 @@
+	<!-- photoswiper -->
+	<!-- CSSの読み込み -->
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/js/photoswipe/photoswipe.css">
+	<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/js/photoswipe/default-skin.css">
+
+	<!-- JavaScriptの読み込み -->
+	<script src="<?php echo get_template_directory_uri(); ?>/js/photoswipe/photoswipe.min.js"></script>
+	<script src="<?php echo get_template_directory_uri(); ?>/js/photoswipe/photoswipe-ui-default.min.js"></script>
